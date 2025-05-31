@@ -13,8 +13,8 @@ The model uses Resnet-50 by default. You could use VGG16 as well by following th
 
 ## Plots 
 </br>
-<img src="https://github.com/user-attachments/assets/809156a7-f031-4441-b248-73428383b220" width="300">
-<img src="https://github.com/user-attachments/assets/cafd5f71-3a83-4ad9-8277-7994ca947b57" width="300">
+<img src="https://github.com/user-attachments/assets/809156a7-f031-4441-b248-73428383b220" width="500">
+<img src="https://github.com/user-attachments/assets/cafd5f71-3a83-4ad9-8277-7994ca947b57" width="500">
 
 project_ssd
 ```
@@ -39,7 +39,3 @@ project_ssd
      -> requirements.txt
 ```
 
-
-## References
-
-- Implementation inspired by the [FasterRCNN-PyTorch repository by explainingai-code](https://github.com/explainingai-code/FasterRCNN-PyTorch).
