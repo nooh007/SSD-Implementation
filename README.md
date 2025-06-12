@@ -10,7 +10,7 @@ The model uses Resnet-50 by default. You could use VGG16 as well by following th
 
 Please follow the tutorial below for complete reimplementation:
 
-[📄 Download Tutorial (SSD for Face Mask Detection)]()
+[📄 Download Tutorial (SSD for Face Mask Detection)](https://github.com/nooh007/SSD-Implementation/blob/main/Tutorial%20by%20Nooh(SSD).pdf)
 
 
 ## Sample Predictions by training SSD on FaceMask dataset 
