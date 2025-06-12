@@ -6,6 +6,13 @@ This SSD implementation can be used for any custom dataset, and make sure to fol
 
 The model uses Resnet-50 by default. You could use VGG16 as well by following the steps mentioned in the tutorial to change current configuration.
 
+## 📘 Tutorial
+
+Please follow the tutorial below for complete reimplementation:
+
+[📄 Download Tutorial (SSD for Face Mask Detection)]()
+
+
 ## Sample Predictions by training SSD on FaceMask dataset 
 </br>
 <img src="https://github.com/user-attachments/assets/4e09eafd-dd85-4db9-98bf-94bcc974df70" width="300">
